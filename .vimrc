@@ -29,11 +29,8 @@ set showmatch
 map <F2> :wa<CR>
 map! <F2> <ESC>:wa<CR>
 
-set listchars=trail:.
 set nocp
 set showtabline=2
 set et
-
-set listchars=trail:.
 
 filetype plugin  indent on
